@@ -56,12 +56,13 @@ create a new branch for your work on the next question!
 
 // Write your code here
 function multiply(a,b){ //eslint-disable-line
-
+var total = a * b;
+return [ total, 'The product of ' + a + ' and ' + b  +  ' is ' + total + '.' ];
 }
-
 // Here is the test for multiply(); uncomment it to run it
-// testMultiply(5,9);
+ testMultiply(5,9);
 
+ 
 
 /////////////////////////////////////
 /* Problem 3
