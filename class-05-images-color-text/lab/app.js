@@ -95,8 +95,7 @@ new branch for your work on the next question!
 
 // Write your code here
 function sumAndMultiply(a,b,c) { //eslint-disable-lineS
-//sum(4,7,5);
-//multiply(4,7,5);
+
 var total =sum(sum(a,b)[0],c)[0];
 var product =multiply(multiply(a,b)[0],c)[0];
 
@@ -136,14 +135,16 @@ new branch for your work on the next question!
 */
 
 // Write your code here
-var testArray = [2,3,4]; //eslint-disable-line
+var testArray = [1,2,3]; //eslint-disable-line
 
 function sumArray(testArray){ //eslint-disable-line
+testArray [sum [+0]  ]
 
+return [ testArray + ' was passed in as an array of numbers/ and ' + total + ' is there sum.' ];
 }
 
 // Here is the test for sumArray(); uncomment it to run it
-// testSumArray(testArray);
+ testSumArray(testArray);
 
 
 /////////////////////////////////////
